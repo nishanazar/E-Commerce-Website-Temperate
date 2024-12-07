@@ -1,8 +1,4 @@
 
-
-
-import { IoIosTabletPortrait } from "react-icons/io";
-
 interface IAboutCard{
     paragraph:string;
     icon: React.ReactNode;

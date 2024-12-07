@@ -1,5 +1,4 @@
-import { FaArrowLeft } from "react-icons/fa"
-import { FaArrowRight } from "react-icons/fa6"
+
 import LittleCard from "./LittleCard"
 import { IoIosTabletPortrait } from "react-icons/io";
 import { HiOutlineComputerDesktop } from "react-icons/hi2";

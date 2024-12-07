@@ -1,4 +1,4 @@
-import { TbMathGreater } from "react-icons/tb";
+
 interface IList {
 paragraphy : string;
 width: string;

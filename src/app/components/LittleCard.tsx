@@ -1,5 +1,5 @@
 
-import { IoIosTabletPortrait } from "react-icons/io";
+
 
 interface ICard {
     paragraph:string;
