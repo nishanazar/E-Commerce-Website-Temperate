@@ -8,7 +8,7 @@ const ExploreProduct = () => {
   return (
     <>
     <Top p1={"Our Products"} p2={"Explore Our Products"}/>
-    <div className="w-[1170px] h-[322px] gap-[30px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  ml-[135] mt-[140px]">
+    <div className="w-[1170px] ml-[135px] h-[322px] gap-[30px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  mt-[140px]">
         
         <Product1 src={"/dog-food.png"} h2={"Breed Dry Dog Food"} value1={"$100"} starvalue={"(35)"} icon1={<FaStar className="text-[black] opacity-50" />} icon2={<FaStar className="text-[black] opacity-50" />} height={"h-[180px]"} width={"w-[125px]"}/>
 
@@ -24,7 +24,7 @@ const ExploreProduct = () => {
 
      {/* 2nd part */}
 
-    <div className="w-[1170px] h-[322px] gap-[30px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  ml-[135] mt-[140px]">
+    <div className="w-[1170px] h-[322px] gap-[30px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4  ml-[135px] mt-[140px]">
         <div>
      
         <Product1 src={"/car.png"} h2={"Kids Electric Car"} value1={"$960"} starvalue={"(65)"} icon1={<FaStar className="text-[#FFAD33]" />} icon2={<FaStar className="text-[#FFAD33]" />} height={"h-[180px]"} width={"w-[190px]"}/>

@@ -4,7 +4,7 @@ import Botton from "../components/Botton"
 const Contact = () => {
   return (
     <>
-    <div className="flex gap-11 mt-[200px] mb-[110px] ml-[135]">
+    <div className="flex gap-11 mt-[200px] mb-[110px] ml-[135px]">
     <div><Image src={"/contact.png"} alt={"pic"} height={457} width={340}/></div>
     <div className="w-[800px] h-[457px] shadow-lg rounded pt-9 pl-6">
     <div className="flex gap-4">
